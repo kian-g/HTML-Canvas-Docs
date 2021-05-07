@@ -1,6 +1,7 @@
-- [Using createLinearGradient()](#using-createlineargradient--)
-- [Using createRadialGradient():](#using-createradialgradient---)
+- [Using createLinearGradient()](#using-createlineargradient)
   * [Example](#example)
+- [Using createRadialGradient():](#using-createradialgradient)
+  * [Example](#example-1)
 ___
 Gradients can be used to fill rectangles, circles, lines, text, etc. Shapes on the canvas are not limited to solid colors.
 
@@ -15,6 +16,7 @@ The addColorStop() method specifies the color stops, and its position along the 
 To use the gradient, set the fillStyle or strokeStyle property to the gradient, then draw the shape (rectangle, text, or a line).
 
 # Using createLinearGradient()
+## Example
 Create a linear gradient. Fill rectangle with the gradient:
 ```js
 var c = document.getElementById("myCanvas");
@@ -31,7 +33,7 @@ ctx.fillRect(10, 10, 150, 80);
 ```
 
 # Using createRadialGradient():
-## Example
+## Example-1
 Create a radial/circular gradient. Fill rectangle with the gradient:
 ```js
 var c = document.getElementById("myCanvas");
