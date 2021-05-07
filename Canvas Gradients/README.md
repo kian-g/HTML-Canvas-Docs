@@ -33,7 +33,7 @@ ctx.fillRect(10, 10, 150, 80);
 ```
 
 # Using createRadialGradient():
-## Example-1
+## Example
 Create a radial/circular gradient. Fill rectangle with the gradient:
 ```js
 var c = document.getElementById("myCanvas");
