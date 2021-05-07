@@ -6,7 +6,7 @@
 - [HTML Canvas Can be Interactive](#html-canvas-can-be-interactive)
 - [HTML Canvas Can be Used in Games](#html-canvas-can-be-used-in-games)
 - [Canvas Example](#canvas-example)
-___
+
 The HTML <canvas> element is used to draw graphics on a web page.
 
 The graphic above is created with <canvas>.
