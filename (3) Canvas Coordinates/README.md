@@ -2,7 +2,7 @@
   * [Example](#example)
 - [Draw a Circle](#draw-a-circle)
   * [Example](#example-1)
-___
+
 The HTML canvas is a two-dimensional grid.
 
 The upper-left corner of the canvas has the coordinates (0,0)
