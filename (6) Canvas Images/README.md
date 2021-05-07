@@ -1,5 +1,4 @@
 - [Example](#example)
-___
 To draw an image on a canvas, use the following method:
 - drawImage(image,x,y)
 
