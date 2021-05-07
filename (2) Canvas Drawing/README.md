@@ -1,3 +1,9 @@
+- [Draw on the Canvas With JavaScript](#draw-on-the-canvas-with-javascript)
+  * [Example](#example)
+- [Step 1: Find the Canvas Element](#step-1--find-the-canvas-element)
+- [Step 2: Create a Drawing Object](#step-2--create-a-drawing-object)
+- [Step 3: Draw on the Canvas](#step-3--draw-on-the-canvas)
+___
 # Draw on the Canvas With JavaScript
 All drawing on the HTML canvas must be done with JavaScript:
 ## Example
